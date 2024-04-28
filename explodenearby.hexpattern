@@ -1,106 +1,63 @@
 {
-    Consideration: {
-        Gemini Decomposition
-        Stadiometer's Purification
-        Numerical Reflection: 0.5
-        Equality Distillation
-        Undertaker's Gambit
-
-        {
-            Gemini Decomposition
-            Pace Purification
-            Prospector's Gambit
-            Compass' Purification
-
-            Mind's Reflection
-            Compass' Purification
-            Mind's Reflection
-            Alidade's Purification
-            Scout's Distillation
-            
-            Gemini Decomposition
-            Compass' Purification
-            Rotation Gambit
-            Subtractive Distillation
-
-            Gemini Decomposition
-            Length Purification
-            Division Distillation
-            
-            Jester's Gambit
-            Nurse's Purification
-
-            // optional: extra damage to deal with wither armour
-            Numerical Reflection: 10
-            Additive Distillation
-
-            Numerical Reflection: 2
-            Division Distillation
-
-            Undertaker's Gambit
-            Multiplicative Distillation
-            Rotation Gambit
-            Subtractive Distillation
-            
-            Gemini Decomposition
-            Length Purification
-            Division Distillation
-            
-            Jester's Gambit
-            Gemini's Gambit
-            
-            Flock's Reflection
-            Numerical Reflection: 2
-            Subtractive Distillation
-            Flock's Gambit
-            
-            {
-                Impulse
-            }
-            Jester's Gambit
-            Thoth's Gambit
-            Bookkeeper's Gambit: vv
-        }
-        {
-            Bookkeeper's Gambit: v
-        }
-        Flock's Disintegration
-        Augur's Exaltation
-        Hermes' Gambit
-
-        {
-            Charon's Gambit
-            Bookkeeper's Gambit: -
-        }
-        Flock's Disintegration
-        Augur's Exaltation
-        Hermes' Gambit
-    Consideration: }
+    {
+        Entropy Reflection
+        Numerical Reflection: 2
+        Multiplicative Distillation
+        Numerical Reflection: 1
+        Subtractive Distillation
+        Numerical Reflection: 10
+        Numerical Reflection: 4
+        Power Distillation
+        Multiplicative Distillation
+        Numerical Reflection: 25
+        Numerical Reflection: 3
+        Multiplicative Distillation
+        Entropy Reflection
+        Numerical Reflection: 2
+        Multiplicative Distillation
+        Numerical Reflection: 1
+        Subtractive Distillation
+        Numerical Reflection: 10
+        Numerical Reflection: 4
+        Power Distillation
+        Multiplicative Distillation
+        Vector Exaltation
+        Greater Teleport
+    }
+    Huginn's Gambit
 
     Mind's Reflection
-    Compass' Purification
-    Numerical Reflection: 32
-    Dioscuri Gambit
-    Dioscuri Gambit
-
-    Zone Distillation: Non-Item
-    Rotation Gambit II
-    Zone Distillation: Non-Living
-    Intersection Distillation
-    Rotation Gambit II
-    Zone Distillation: Non-Wisp
-    Intersection Distillation
-
-    // show a message if no potential arrows are in range
-    Gemini Decomposition
+    Stadiometer's Purification
+    Numerical Reflection: 18
+    Numerical Reflection: 10
+    Division Distillation
+    Subtractive Distillation
     Augur's Purification
+
     {
-        Bookkeeper's Gambit: -
-        Reveal
+        {
+            Muninn's Reflection
+            Hermes' Gambit
+        }
+        Mind's Reflection
+        Compass' Purification
+        Numerical Reflection: 10
+        Zone Distillation: Non-Item
+        Numerical Reflection: 0
+        Excisor's Distillation
+        Thoth's Gambit
     }
-    Flock's Disintegration
+
+    {
+        Mind's Reflection
+        Compass' Purification
+        Mind's Reflection
+        Alidade's Purification
+        Scout's Distillation
+        Muninn's Reflection
+        Hermes' Gambit
+    }
+
     Augur's Exaltation
     Hermes' Gambit
-
-    Thoth's Gambit
 }
